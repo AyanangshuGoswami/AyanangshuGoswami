@@ -15,7 +15,3 @@ Hey, I'm **Ayanangshu Goswami** 👋<br><br>🎓 Final-year B.Tech IT student at
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://komarev.com/ghpvc/?username=AyanangshuGoswami&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
