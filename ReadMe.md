@@ -47,7 +47,7 @@ const ayanangshu: EngineerProfile = {
   aiStack: ["LangGraph", "OpenAI API", "Gemini API", "Groq API", "PyTorch", "Scikit-learn","Matplotlib","Langchain","RAG","Pandas","Numpy","Tensorflow"],
   currentlyGrinding: ["Data Structures & Algorithms (Java)", "Distributed System Design", "Agentic Workflows"],
   availability: "Open to Software Engineering, Full-Stack & AI/ML Roles (2027 Grad)",
-  Portfolio: "https://portfolio-2-o-self.vercel.app/"
+  Portfolio: "https://ayanangshugoswamiportfolio.vercel.app/"
 };
 ```
 
