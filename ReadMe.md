@@ -37,18 +37,6 @@
 ## 👨‍💻 System Profile
 
 ```typescript
-interface EngineerProfile {
-  name: string;
-  role: string;
-  location: string;
-  education: string;
-  experience: string;
-  coreDomains: string[];
-  aiStack: string[];
-  currentlyGrinding: string[];
-  availability: string;
-}
-
 const ayanangshu: EngineerProfile = {
   name: "Ayanangshu Goswami",
   role: "Full-Stack Developer & AI/ML Engineer",
@@ -56,9 +44,10 @@ const ayanangshu: EngineerProfile = {
   education: "B.Tech in Information Technology @ KIIT (2023 - 2027)",
   experience: "Full-Stack Development Intern @ VeritasCo. (A+ Rated)",
   coreDomains: ["Full-Stack Web Architecture", "Generative AI & LLMs", "REST & Real-Time APIs", "Cloud Deployment"],
-  aiStack: ["LangGraph", "OpenAI API", "Gemini API", "Groq API", "PyTorch", "Scikit-learn"],
+  aiStack: ["LangGraph", "OpenAI API", "Gemini API", "Groq API", "PyTorch", "Scikit-learn","Matplotlib","Langchain","RAG","Pandas","Numpy","Tensorflow"],
   currentlyGrinding: ["Data Structures & Algorithms (Java)", "Distributed System Design", "Agentic Workflows"],
-  availability: "Open to Software Engineering, Full-Stack & AI/ML Roles (2027 Grad)"
+  availability: "Open to Software Engineering, Full-Stack & AI/ML Roles (2027 Grad)",
+  Portfolio: "https://portfolio-2-o-self.vercel.app/"
 };
 ```
 
