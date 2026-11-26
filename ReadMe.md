@@ -1,6 +1,6 @@
 <!-- 3D Neon Wave Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:1e1b4b,70:4c1d95,100:0ea5e9&height=240&section=header&text=Ayanangshu%20Goswami&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Engineer%20%7C%20AI%2FML%20%26%20Generative%20AI%20Builder&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:1e1b4b,70:4c1d95,100:0ea5e9&height=240&section=header&text=Ayanangshu%20Goswami&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Engineer%20%7C%20AI%20%2B%20Generative%20AI%20Builder&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Ayanangshu Goswami Header Banner" />
 </div>
 
 <!-- Optional: Uncomment after uploading your exported Spline 3D animation to assets/spline-hero.gif -->
@@ -19,15 +19,9 @@
 
 <!-- Social Links, Connect & Live Views -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/ayanangshu-goswami-5a5656298/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ayanangshugoswamiabir@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/abiirrr___/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/ayanangshu-goswami-5a5656298/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ayanangshugoswamiabir@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.instagram.com/abiirrr___/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <img src="https://komarev.com/ghpvc/?username=AyanangshuGoswami&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/AyanangshuGoswami?style=for-the-badge&color=0ea5e9&label=FOLLOWERS" alt="Followers" />
 </div>
@@ -35,7 +29,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:38bdf8,100:020617&height=3" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:38bdf8,100:020617&height=3" width="100%" alt="Divider" />
 </div>
 
 <br/>
@@ -71,7 +65,7 @@ const ayanangshu: EngineerProfile = {
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:818cf8,100:020617&height=3" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:818cf8,100:020617&height=3" width="100%" alt="Divider" />
 </div>
 
 <br/>
@@ -89,7 +83,7 @@ const ayanangshu: EngineerProfile = {
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:38bdf8,100:020617&height=3" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:38bdf8,100:020617&height=3" width="100%" alt="Divider" />
 </div>
 
 <br/>
@@ -103,17 +97,17 @@ const ayanangshu: EngineerProfile = {
       <b>Full-Stack Development Intern — VeritasCo.</b><br/>
       <sub><i>July 2026 – August 2026 • Overall Evaluation: A+</i></sub>
       <ul>
-        <li>Engineered core full-stack modules with <b>Next.js, TypeScript, Tailwind CSS, Node.js, Express.js, PostgreSQL & Prisma ORM</b>.</li>
+        <li>Engineered core full-stack modules with <b>Next.js, TypeScript, Tailwind CSS, Node.js, Express.js, PostgreSQL &amp; Prisma ORM</b>.</li>
         <li>Integrated <b>JWT authentication</b>, <b>OpenAI API pipelines</b>, and <b>Cloudinary</b> asset workflows.</li>
-        <li>Managed containerized deployments using <b>Docker</b> and CI/CD pipelines on <b>Vercel & Render</b>.</li>
+        <li>Managed containerized deployments using <b>Docker</b> and CI/CD pipelines on <b>Vercel &amp; Render</b>.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🎓 Education & Certifications</h3>
+      <h3>🎓 Education &amp; Certifications</h3>
       <b>B.Tech in Information Technology — KIIT University</b><br/>
       <sub><i>2023 – 2027 • Bhubaneswar, Odisha</i></sub>
       <br/><br/>
-      <b>🏅 Certifications & Simulations</b>
+      <b>🏅 Certifications &amp; Simulations</b>
       <ul>
         <li><b>AWS Cloud Foundations</b> — Amazon Web Services (2025)</li>
         <li><b>Deloitte Australia Technology Job Simulation</b> — Forage (2025)</li>
@@ -125,7 +119,7 @@ const ayanangshu: EngineerProfile = {
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:a855f7,100:020617&height=3" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:a855f7,100:020617&height=3" width="100%" alt="Divider" />
 </div>
 
 <br/>
@@ -136,13 +130,13 @@ const ayanangshu: EngineerProfile = {
   <thead>
     <tr>
       <th width="24%">Project</th>
-      <th width="46%">Architecture & Impact</th>
+      <th width="46%">Architecture &amp; Impact</th>
       <th width="30%">Tech Stack</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><b>🤖 CareerCraft AI</b><br/><sub>AI Career & ATS Platform</sub></td>
+      <td><b>🤖 CareerCraft AI</b><br/><sub>AI Career &amp; ATS Platform</sub></td>
       <td>
         End-to-end AI career suite featuring automated resume parsing, ATS compatibility scoring, job-description matching, and interactive AI interview preparation using dual LLM inference.
       </td>
@@ -162,7 +156,7 @@ const ayanangshu: EngineerProfile = {
     <tr>
       <td><b>📚 Library Management System</b><br/><sub>Enterprise MERN Platform</sub></td>
       <td>
-        Full-stack RBAC platform supporting <b>Admin, Librarian & Student</b> tiers with QR-code book lookups, automated email alerts via <code>node-cron</code>, Cloudinary uploads, Swagger API docs, and analytics.
+        Full-stack RBAC platform supporting <b>Admin, Librarian &amp; Student</b> tiers with QR-code book lookups, automated email alerts via <code>node-cron</code>, Cloudinary uploads, Swagger API docs, and analytics.
       </td>
       <td>
         <code>React</code> <code>Tailwind CSS</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>JWT</code> <code>Cloudinary</code> <code>Swagger</code>
@@ -174,7 +168,7 @@ const ayanangshu: EngineerProfile = {
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:38bdf8,100:020617&height=3" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:38bdf8,100:020617&height=3" width="100%" alt="Divider" />
 </div>
 
 <br/>
@@ -184,17 +178,17 @@ const ayanangshu: EngineerProfile = {
 <div align="center">
 
 #### ⚡ Languages & Frontend
-<img src="https://skillicons.dev/icons?i=ts,js,py,java,cpp,c,react,nextjs,redux,vite,tailwind,html,css,angular&perline=7" />
+<img src="https://skillicons.dev/icons?i=ts,js,py,java,cpp,c,react,nextjs,redux,vite,tailwind,html,css,angular&perline=7" alt="Languages and Frontend" />
 
 <br/><br/>
 
 #### ⚙️ Backend, Databases & Cloud Infrastructure
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,prisma,postgres,mongodb,mysql,redis,firebase,aws,gcp,docker,vercel,cloudflare&perline=8" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,prisma,postgres,mongodb,mysql,redis,firebase,aws,gcp,docker,vercel,cloudflare&perline=8" alt="Backend, Databases and Cloud" />
 
 <br/><br/>
 
 #### 🧠 AI / ML, LLMs & Developer Ecosystem
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,git,github,postman,figma,vscode&perline=8" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,git,github,postman,figma,vscode&perline=8" alt="AI, ML and Dev Tools" />
 
 <br/><br/>
 
@@ -214,7 +208,7 @@ const ayanangshu: EngineerProfile = {
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:818cf8,100:020617&height=3" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:818cf8,100:020617&height=3" width="100%" alt="Divider" />
 </div>
 
 <br/>
@@ -232,7 +226,7 @@ const ayanangshu: EngineerProfile = {
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:a855f7,100:020617&height=3" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:a855f7,100:020617&height=3" width="100%" alt="Divider" />
 </div>
 
 <br/>
@@ -240,32 +234,32 @@ const ayanangshu: EngineerProfile = {
 ## 🏆 GitHub Trophies & Telemetry Dashboard
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AyanangshuGoswami&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AyanangshuGoswami&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="GitHub Trophies" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=AyanangshuGoswami&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AyanangshuGoswami&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" />
+  <img height="180" src="https://github-readme-stats.shion.dev/api?username=AyanangshuGoswami&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AyanangshuGoswami&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AyanangshuGoswami&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=A855F7&currStreakLabel=38BDF8" />
+  <img src="https://streak-stats.demolab.com/?user=AyanangshuGoswami&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=A855F7&currStreakLabel=38BDF8" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyanangshuGoswami&theme=tokyo-night&bg_color=0D1117&color=38BDF8&line=818CF8&point=FFFFFF&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyanangshuGoswami&theme=tokyo-night&bg_color=0D1117&color=38BDF8&line=818CF8&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:38bdf8,100:020617&height=3" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:38bdf8,100:020617&height=3" width="100%" alt="Divider" />
 </div>
 
 <br/>
@@ -273,7 +267,7 @@ const ayanangshu: EngineerProfile = {
 ## 🔍 Deep Dive (Interactive Panels)
 
 <details>
-  <summary><b>⚡ What I'm Building & Learning Right Now</b></summary>
+  <summary><b>⚡ What I'm Building &amp; Learning Right Now</b></summary>
   <br/>
   <ul>
     <li><b>Agentic AI Systems:</b> Multi-step orchestration with LangGraph, tool-calling pipelines, and structured LLM outputs.</li>
@@ -283,11 +277,11 @@ const ayanangshu: EngineerProfile = {
 </details>
 
 <details>
-  <summary><b>🖥️ Dev Environment & Workflow</b></summary>
+  <summary><b>🖥️ Dev Environment &amp; Workflow</b></summary>
   <br/>
   <ul>
-    <li><b>IDE & Runtime:</b> VS Code, Vite, Node.js, Python 3.x, Docker Desktop</li>
-    <li><b>API & DB Tooling:</b> Postman, Swagger/OpenAPI, Prisma Studio, MongoDB Compass</li>
+    <li><b>IDE &amp; Runtime:</b> VS Code, Vite, Node.js, Python 3.x, Docker Desktop</li>
+    <li><b>API &amp; DB Tooling:</b> Postman, Swagger/OpenAPI, Prisma Studio, MongoDB Compass</li>
     <li><b>Deployment Stack:</b> AWS (EC2, S3, VPC), Vercel, Render, Cloudflare, GitHub Actions</li>
   </ul>
 </details>
@@ -297,12 +291,12 @@ const ayanangshu: EngineerProfile = {
 ## ✍️ Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
 <br/>
 
 <!-- 3D Neon Wave Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,35:4c1d95,70:1e1b4b,100:020617&height=120&section=footer&text=Let's%20Build%20Something%20Great&fontSize=24&fontColor=ffffff&fontAlignY=65" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,35:4c1d95,70:1e1b4b,100:020617&height=120&section=footer&text=Building%20Scalable%20AI%20Systems&fontSize=24&fontColor=ffffff&fontAlignY=65" width="100%" alt="Footer Wave Banner" />
 </div>
