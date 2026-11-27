@@ -1,4 +1,4 @@
-<!-- 3D Neon Wave Header -->
+ <!-- 3D Neon Wave Header -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:1e1b4b,70:4c1d95,100:0ea5e9&height=240&section=header&text=Ayanangshu%20Goswami&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Engineer%20%7C%20AI%20%2B%20Generative%20AI%20Builder&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Ayanangshu Goswami Header Banner" />
 </div>
